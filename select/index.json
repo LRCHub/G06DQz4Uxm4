@@ -1,0 +1,128 @@
+{
+  "version": 1,
+  "base_track": "10years",
+  "base_artist": "KinKi Kids",
+  "createdAt": "2026-02-22T02:29:43.781078Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "約束~August, 10years later~",
+      "artist": "Zone",
+      "has_synced": true,
+      "path": "select/01_約束~August,_10years_later~_Zone.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "10YEARS AFTER",
+      "artist": "米倉千尋",
+      "has_synced": false,
+      "path": "select/02_10YEARS_AFTER_米倉千尋.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "約束 〜August, 10years later〜",
+      "artist": "ZONE",
+      "has_synced": true,
+      "path": "select/03_約束_〜August,_10years_later〜_ZONE.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "約束 ~August, 10years later~",
+      "artist": "ZONE",
+      "has_synced": true,
+      "path": "select/04_約束_~August,_10years_later~_ZONE.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "10Years Has Passed",
+      "artist": "Turtles",
+      "has_synced": true,
+      "path": "select/05_10Years_Has_Passed_Turtles.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "10YEARS",
+      "artist": "RADIO FISH",
+      "has_synced": true,
+      "path": "select/06_10YEARS_RADIO_FISH.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "YAKUSOKU August, 10years Later",
+      "artist": "Zone",
+      "has_synced": false,
+      "path": "select/07_YAKUSOKU_August,_10years_Later_Zone.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "恋する - 10YEARS THANK YOU",
+      "artist": "SHISHAMO",
+      "has_synced": true,
+      "path": "select/08_恋する_-_10YEARS_THANK_YOU_SHISHAMO.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "約束 ～August, 10years later～",
+      "artist": "ZONE",
+      "has_synced": false,
+      "path": "select/09_約束_~August,_10years_later~_ZONE.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "恋する (10YEARS THANK YOU) - Koisuru (10YEARS THANK YOU)",
+      "artist": "SHISHAMO",
+      "has_synced": true,
+      "path": "select/10_恋する_(10YEARS_THANK_YOU)_-_Koisuru_(10YEARS_THANK_YOU)_SHISHAMO.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Yakusoku ~August.10years later~",
+      "artist": "ZONE",
+      "has_synced": false,
+      "path": "select/11_Yakusoku_~August.10years_later~_ZONE.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "10Years Has Passed",
+      "artist": "The Turtles",
+      "has_synced": true,
+      "path": "select/12_10Years_Has_Passed_The_Turtles.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "恋する (10YEARS THANK YOU)",
+      "artist": "Shishamo",
+      "has_synced": true,
+      "path": "select/13_恋する_(10YEARS_THANK_YOU)_Shishamo.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "恋する (10YEARS THANK YOU)",
+      "artist": "SHISHAMO",
+      "has_synced": true,
+      "path": "select/14_恋する_(10YEARS_THANK_YOU)_SHISHAMO.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "10years",
+      "artist": "KinKi Kids",
+      "has_synced": false,
+      "path": "select/pl_01_10years_KinKi_Kids.txt"
+    }
+  ]
+}
